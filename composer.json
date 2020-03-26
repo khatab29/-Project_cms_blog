@@ -1,0 +1,13 @@
+{
+    "name": "khatab/blog",
+    "require": {
+        "illuminate/database": "^7.2"
+    },
+    "autoload": {
+        "psr-4":
+        {"Controllers\\": "App/Controllers/",
+         "Models\\": "App/Models/"
+        }
+        
+    }
+}
