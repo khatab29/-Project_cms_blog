@@ -1,0 +1,11 @@
+// get new commits information from remote
+git fetch
+
+// add the remote new commits to my branch
+git merge origin/master
+
+// shortcut for fetch then merge
+git pull
+
+// upload my new commits to the remote
+git push
