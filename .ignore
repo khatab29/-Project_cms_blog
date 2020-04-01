@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 halllo mahmoud
+=======
+// get new commits information from remote
+git fetch
+
+// add the remote new commits to my branch
+git merge origin/master
+
+// shortcut for fetch then merge
+git pull
+
+// upload my new commits to the remote
+git push
+>>>>>>> 487d9dd822d6e837632920b9e291f1386bd31feb
